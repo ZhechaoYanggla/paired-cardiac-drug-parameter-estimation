@@ -4,9 +4,7 @@ Code accompanying the paper:
 **"Mechanistic Modelling of Anti-Arrhythmic Drug Action from Paired Cardiac Cell Recordings"**
 Zhechao Yang, University of Glasgow, 2026.
 
-## Requirements
-Install dependencies with:
-    pip install -r requirements.txt
+
 
 ## Installation
 
